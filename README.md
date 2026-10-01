@@ -63,7 +63,7 @@ Building projects, exploring new technologies, and turning ideas into code.
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 </p>
 
 ### 🌐 Frontend Development
