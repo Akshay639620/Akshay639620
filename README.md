@@ -41,7 +41,7 @@ Building projects, exploring new technologies, and turning ideas into code.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/Akshay Shrivastav">
+  <a href="https://facebook.com/https://www.facebook.com/akshay.srivastav.983">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/akshay_srivastav_983">
