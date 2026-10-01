@@ -5,7 +5,7 @@
 
 # Hey, I'm Akshay Srivastav 👋
 
-### 💻 Computer Science Student | Full-Stack Developer | Java & Python
+### 💻 Computer Science Student | Full-Stack Developer | Javascript & Python
 
 Building projects, exploring new technologies, and turning ideas into code.
 
@@ -29,7 +29,7 @@ Building projects, exploring new technologies, and turning ideas into code.
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about software development.
-- 💻 Interested in **Full-Stack Development, Java, and Backend Engineering**.
+- 💻 Interested in **Full-Stack Development, Javascript, and Backend Engineering**.
 - 🌱 Currently improving my problem-solving and development skills.
 - 🚀 Love building practical projects and learning new technologies.
 - 🎯 Goal: Build scalable applications and become a skilled software engineer.
